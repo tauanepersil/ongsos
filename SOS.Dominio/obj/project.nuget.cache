@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "snFcqo6+4vg3irxA+BFZXQi2fidKrQmRsUIzJZ2kzkCjU7pgHhl7aGztQil1UFuF9dpcun/14FXC04spegtMOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tauane.silva.ZEMAFINANCEIRA\\Downloads\\SOS\\SOS\\SOS.Dominio\\SOS.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tauane.silva.ZEMAFINANCEIRA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\tauane.silva.ZEMAFINANCEIRA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\tauane.silva.ZEMAFINANCEIRA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

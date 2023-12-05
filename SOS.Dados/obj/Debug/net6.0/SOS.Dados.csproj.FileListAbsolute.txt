@@ -1,0 +1,17 @@
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\bin\Debug\net6.0\SOS.Dados.deps.json
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\bin\Debug\net6.0\SOS.Dados.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\bin\Debug\net6.0\SOS.Dados.pdb
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\bin\Debug\net6.0\SOS.CrossCutting.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\bin\Debug\net6.0\SOS.Dominio.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\bin\Debug\net6.0\SOS.CrossCutting.pdb
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\bin\Debug\net6.0\SOS.Dominio.pdb
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\SOS.Dados.csproj.AssemblyReference.cache
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\SOS.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\SOS.Dados.AssemblyInfoInputs.cache
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\SOS.Dados.AssemblyInfo.cs
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\SOS.Dados.csproj.CoreCompileInputs.cache
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\SOS.Dados.csproj.CopyComplete
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\SOS.Dados.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\refint\SOS.Dados.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\SOS.Dados.pdb
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dados\obj\Debug\net6.0\ref\SOS.Dados.dll

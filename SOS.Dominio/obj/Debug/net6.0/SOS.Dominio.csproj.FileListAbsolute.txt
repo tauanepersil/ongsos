@@ -1,0 +1,11 @@
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\bin\Debug\net6.0\SOS.Dominio.deps.json
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\bin\Debug\net6.0\SOS.Dominio.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\bin\Debug\net6.0\SOS.Dominio.pdb
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\obj\Debug\net6.0\SOS.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\obj\Debug\net6.0\SOS.Dominio.AssemblyInfoInputs.cache
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\obj\Debug\net6.0\SOS.Dominio.AssemblyInfo.cs
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\obj\Debug\net6.0\SOS.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\obj\Debug\net6.0\SOS.Dominio.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\obj\Debug\net6.0\refint\SOS.Dominio.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\obj\Debug\net6.0\SOS.Dominio.pdb
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.Dominio\obj\Debug\net6.0\ref\SOS.Dominio.dll

@@ -1,0 +1,11 @@
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\bin\Debug\net6.0\SOS.CrossCutting.deps.json
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\bin\Debug\net6.0\SOS.CrossCutting.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\bin\Debug\net6.0\SOS.CrossCutting.pdb
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\obj\Debug\net6.0\SOS.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\obj\Debug\net6.0\SOS.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\obj\Debug\net6.0\SOS.CrossCutting.AssemblyInfo.cs
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\obj\Debug\net6.0\SOS.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\obj\Debug\net6.0\SOS.CrossCutting.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\obj\Debug\net6.0\refint\SOS.CrossCutting.dll
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\obj\Debug\net6.0\SOS.CrossCutting.pdb
+C:\Users\tauane.silva.ZEMAFINANCEIRA\Downloads\SOS\SOS\SOS.CrossCutting\obj\Debug\net6.0\ref\SOS.CrossCutting.dll
